@@ -1,0 +1,6 @@
+@SaConnectApi_HostAddress = http://localhost:5258
+
+GET {{SaConnectApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
